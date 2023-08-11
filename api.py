@@ -16,3 +16,18 @@ def update_data(meta: Model) -> str:
 
 def delete_data(meta: Model):
     return f'deleted {meta.name}'
+
+def read_cde(table: object):
+    pass
+
+def update_cde(table: object):
+    pass
+
+def create_cde(table: object):
+    pass
+
+def delete_cde(table: object):
+    pass
+
+def trash():
+    pass
