@@ -28,3 +28,6 @@ def create_cde(table: object):
 
 def delete_cde(table: object):
     pass
+
+def trash():
+    pass
