@@ -34,3 +34,6 @@ def trash():
 
 def registration(table: object):
     print(table)
+
+def login(table: object):
+    pass
