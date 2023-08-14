@@ -33,7 +33,7 @@ def trash():
     pass
 
 def registration(table: object):
-    pass
+    print(table)
 
 def login(table: object):
     pass
