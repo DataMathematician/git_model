@@ -33,4 +33,4 @@ def trash():
     pass
 
 def registration(table: object):
-    pass
+    print(table)
