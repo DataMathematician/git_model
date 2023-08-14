@@ -31,3 +31,6 @@ def delete_cde(table: object):
 
 def trash():
     pass
+
+def registration(table: object):
+    pass
